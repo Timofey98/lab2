@@ -1,9 +1,9 @@
 package com.company;
 
-import com.company.LocalString;
+import com.company.LocalStringClass;
 
 public class ProjectMaven {
     public static void main(String[] args) {
-        System.out.println(LocalString.str);
+        System.out.println(LocalStringСlass.str);
     }
 }
